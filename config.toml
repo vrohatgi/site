@@ -1,0 +1,8 @@
+baseurl = "https://vrohatgi.github.io/"
+languageCode = "en-us"
+title = "Modern Thoughts"
+
+[params]
+Summary = true  # takes true or false
+Content = false  # takes true or false
+
